@@ -1,8 +1,8 @@
 FROM python:latest
 
-ADD . /devops_final_project_server
+ADD . /devops_final_project_cicd
 
-WORKDIR /devops_final_project_server
+WORKDIR /devops_final_project_cicd
 
 RUN pip install -r requirements.txt
 
