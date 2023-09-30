@@ -1,6 +1,6 @@
 **DevOps Capstone Project**
 
-**Part 1: Application and Container Building**
+**Part 4: Setting up CI/CD Pipelines**
 
 Stuck on this error:
 
